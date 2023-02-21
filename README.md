@@ -5,14 +5,10 @@ CSPT0123 Exercises
 
 This repository contains exercises of the EPICODE CSPT0123 course
 
-# Attribution
-The original administrative limits data are copyrighted by ISTAT, that releases them under the CC-BY license.
-The data generated and published here are released under the same CC-BY license.
 
-# Geojson files
-These files are **not simplified**, contain a large number of vectors, and can only contain one layer.
-They are compatible with almost all visualisers and applications, and can be used to integrate geographic information,
-almost as ubiquitously as shp files.
+![image](https://user-images.githubusercontent.com/55353939/220435087-74adfd86-d1a6-48fd-8c4a-b428da4c8b2a.png)
+
+
 
 The following files are available:
 - [geojson/limits_IT_municipalities.geojson](https://github.com/openpolis/geojson-italy/blob/master/geojson/limits_IT_municipalities.geojson) - all Italian municipalities, ~40MB
